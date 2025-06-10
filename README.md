@@ -8,6 +8,7 @@ Dataset for "LegalSearchLM: Rethinking Legal Case Retrieval as Legal Elements Ge
 <img width="1395" alt="image" src="https://github.com/user-attachments/assets/ab0ba6ac-63dc-4dc5-a29d-088c63ad7fa8" />
 
 **(Standard)** is designed to evaluate a broad range of crime types, covering 411 distinct types of offenses. Its relevance criteria are based on the charge title or the statutory provisions, each of which represents the same crime under the same law.  
+
 **(Stricter)**  further requires factual details or legal issues that do not affect the type of charge, but might affect the final judgment or the sentence (e.g., the severity of the crime, the relationship between the defendant and the victim, and arguments made by defendants).
 
 
@@ -743,7 +744,7 @@ Below are 411 crime types used in queries across 33 categories.
 
 ----
 
-**[LEGAR BENCH_stricter]**
+**[LEGAR BENCH_stricter]**  
 We annotate 170K cases across 160 crime types using 102 crime-specific legal factors and 443 corresponding options, grouping cases by shared criteria.
 
 For example,
