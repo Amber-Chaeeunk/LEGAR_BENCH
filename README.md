@@ -1,4 +1,4 @@
-# LegalSearchLM: Rethingking Legal Case Retrieval as Legal Elements Generation
+# LegalSearchLM: Rethinking Legal Case Retrieval as Legal Elements Generation
 
 Dataset for "LegalSearchLM: Rethinking Legal Case Retrieval as Legal Elements Generation" (Preprint).  
 
