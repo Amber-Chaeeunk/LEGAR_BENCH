@@ -772,6 +772,6 @@ English: [["Relationship with victim", 10], ["Location of offense", 6], ["Victim
   } </pre>
 
 
-Please contact Chaeeun Kim (chaeeun@lbox.kr) for any questions or suggestions.
+Please contact Chaeeun Kim (chaechaek1214@gmail.com) for any questions or suggestions.
 
 
