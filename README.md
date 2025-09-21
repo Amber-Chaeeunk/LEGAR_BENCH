@@ -1,6 +1,6 @@
 # LegalSearchLM: Rethinking Legal Case Retrieval as Legal Elements Generation
 
-Dataset for "LegalSearchLM: Rethinking Legal Case Retrieval as Legal Elements Generation (Preprint) by Chaeeun Kim, Jinu Lee, and Wonseok Hwang".  
+Dataset for "LegalSearchLM: Rethinking Legal Case Retrieval as Legal Elements Generation (EMNLP 2025)".  
 
 [[Paper](https://arxiv.org/abs/2505.23832)] [[🤗 Dataset](https://huggingface.co/datasets/Chaeeun-Kim/LEGAR_BENCH)]
 
